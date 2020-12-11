@@ -11,6 +11,10 @@ Basic knowledge is recommended for the below courses.
 - functions
 - i/o module
 
+## Timeline
+
+This project will be completed in phases. Find the different phases [here](./PHASES.md)
+
 # LICENSE
 
 This project is published under MIT License. Read more [here](./LICENSE)
