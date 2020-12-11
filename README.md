@@ -13,7 +13,7 @@ Basic knowledge is recommended for the below courses.
 
 ## Timeline
 
-This project will be completed in phases. Find the different phases [here](./PHASES.md)
+This project will be completed in phases. Find the different phases [here](./docs/PHASES.md)
 
 # LICENSE
 
